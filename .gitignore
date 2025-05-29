@@ -1,0 +1,3 @@
+*.log
+!bom.log
+# Ignore all log files except bom.log 
